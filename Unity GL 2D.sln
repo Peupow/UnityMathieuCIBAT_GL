@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity GL 2D.Plugins", "Unity GL 2D.Plugins.csproj", "{974C96A9-4784-893D-04CA-A04B1DCB5CFD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity GL 2D", "Unity GL 2D.csproj", "{08D306E2-6F3B-A89D-AFE4-BBA058AFEB98}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{974C96A9-4784-893D-04CA-A04B1DCB5CFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{974C96A9-4784-893D-04CA-A04B1DCB5CFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{974C96A9-4784-893D-04CA-A04B1DCB5CFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{974C96A9-4784-893D-04CA-A04B1DCB5CFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08D306E2-6F3B-A89D-AFE4-BBA058AFEB98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08D306E2-6F3B-A89D-AFE4-BBA058AFEB98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08D306E2-6F3B-A89D-AFE4-BBA058AFEB98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08D306E2-6F3B-A89D-AFE4-BBA058AFEB98}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
